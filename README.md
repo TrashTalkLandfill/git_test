@@ -1,0 +1,1 @@
+This is DJ DOUGIE FRESH's first git project!
